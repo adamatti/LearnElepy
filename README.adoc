@@ -1,0 +1,3 @@
+Play with https://docs.elepy.com[Elepy].
+
+TL/DR: https://grails.org[Grails] still a better option.
